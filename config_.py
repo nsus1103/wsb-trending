@@ -1,0 +1,7 @@
+API_URL = 'https://paper-api.alpaca.markets'
+API_KEY = 'INSERT_API_KEY_HERE'
+API_SECRET = 'INSERT_API_SECRET_HERE'
+DB_HOST = 'localhost'
+DB_USER = 'DB_USER'
+DB_PASS = 'DB_PASSWORD'
+DB_NAME = 'DB_NAME'
